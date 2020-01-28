@@ -1,0 +1,16 @@
+Location,Distance (ft),Down (mbps),Upload (mbps),Quality (%),Strength (dBm)
+corner off 12 fl stairway *directors conference,0,25.1,48.5,100,-42
+stairway,20,37.3,39.1,89,-48
+Prague conference,40,36.5,19.1,84,-51
+Urban control room,60,25.7,26,76,-57
+Toiler TL2,80,39.6,29.5,77,-56
+Uranus phone,100,20.6,31.6,67,-62
+hallway,120,21.6,23.7,66,-62
+Neptune,140,15.1,23.8,61,-60
+Accra,160,24.7,14.9,57,-71
+Pantry,180,16.2,14.6,55,-68
+Hallway,200,19.2,17.6,60,-69
+wooden slats,220,12.9,9.57,54,-73
+reception,240,18.3,17.5,51,-71
+blue sofa,260,27.3,22.4,63,-65
+end,280,16.7,22.6,60,-63
